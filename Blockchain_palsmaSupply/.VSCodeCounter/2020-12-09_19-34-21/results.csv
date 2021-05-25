@@ -1,0 +1,16 @@
+"filename", "language", "JavaScript", "CSS", "SCSS", "Solidity", "comment", "blank", "total"
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Admin.css", "CSS", 0, 23, 0, 0, 0, 5, 28
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Admin.js", "JavaScript", 209, 0, 0, 0, 0, 7, 216
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/App.css", "CSS", 0, 0, 0, 0, 1, 1, 2
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/App.js", "JavaScript", 251, 0, 0, 0, 9, 22, 282
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Bank.js", "JavaScript", 133, 0, 0, 0, 1, 5, 139
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Donor.js", "JavaScript", 87, 0, 0, 0, 0, 8, 95
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Donor.scss", "SCSS", 0, 0, 57, 0, 2, 14, 73
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Hospital.js", "JavaScript", 218, 0, 0, 0, 1, 11, 230
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/List.css", "CSS", 0, 22, 0, 0, 0, 3, 25
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/components/Navbar.js", "JavaScript", 23, 0, 0, 0, 0, 5, 28
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/contracts/Blood.sol", "Solidity", 0, 0, 0, 179, 20, 23, 222
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/contracts/Migrations.sol", "Solidity", 0, 0, 0, 18, 0, 6, 24
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/index.js", "JavaScript", 7, 0, 0, 0, 3, 3, 13
+"/Users/chandanjha/Documents/projectMinor/Blockchain_palsmaSupply/src/serviceWorker.js", "JavaScript", 92, 0, 0, 0, 31, 13, 136
+"Total", "-", 1020, 45, 57, 197, 68, 126, 1513
